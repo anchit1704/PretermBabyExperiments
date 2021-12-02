@@ -1,5 +1,5 @@
 # PretermBabyExperiments
 
-| Data | Number of valid data | Feature |
-| --- | --- | --- |
-| Day 1 | 14 | estimated #events <80 |
+| Data | Train Accuracy | Val Accuracy| F1 score | Precision | Recall | Model |
+| --- | --- | --- | --- | --- | --- | --- |
+| Day 5, Day 6, Day 7, Day 8 |  |  | | | | Logistic Regression|
