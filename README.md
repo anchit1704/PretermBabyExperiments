@@ -32,6 +32,8 @@
 | estimated_events<80% Day 8| 0.858  |  | | | | Logistic Regression| |  | A |
 | estimated_events<80% Day 9| 0.858  |  | | | | Logistic Regression| |  | A |
 | estimated_events<80% Day 10| 0.858  |  | | | | Logistic Regression| |  | A |
+| average_duration<80% Day 4 and Day 5, atleast one day | 0  | 0.854| 0 | 0 | 0 | Logistic Regression| |  | A |
+
 
 
 
