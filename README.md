@@ -15,7 +15,7 @@
 | corrected_time<80% Day 1| 0.858  | NA | NA | NA | NA | Logistic Regression| Day 1 has no ROP valid data |  | A |
 | corrected_time<80% Day 2| 0.858  |  | | | | Logistic Regression| |  | A |
 | corrected_time<80% Day 3| 0.858  |  | | | | Logistic Regression| |  | A |
-| corrected_time<80% Day 4| 0.858  |  | | | | Logistic Regression| |  | A |
+| corrected_time<80% Day 4| 0.863  | 0.855 | | | | Logistic Regression| |  | A |
 | corrected_time<80% Day 5| 0.858  |  | | | | Logistic Regression| |  | A |
 | corrected_time<80% Day 6| 0.858  |  | | | | Logistic Regression| |  | A |
 | corrected_time<80% Day 7| 0.858  |  | | | | Logistic Regression| |  | A |
