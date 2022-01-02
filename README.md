@@ -3,9 +3,9 @@
 | Data | Train Accuracy | Val Accuracy| F1 score | Precision | Recall | Model | Remarks | Features | Reviewer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | average_duration<80% Day 1 | NA | NA | NA | NA | NA | Logistic Regression| Day 1 has no ROP valid data |  | A |
-| average_duration<80% Day 2 | 0.858  |  | | | | Logistic Regression| |  | A |
+| average_duration<80% Day 2 | 85.8  | 89.5 | 0 | 0 | 0| Logistic Regression| |  | A |
 | average_duration<80% Day 3 | 0.858  |  | | | | Logistic Regression| |  | A |
-| average_duration<80% Day 4 | 0.858  |  | | | | Logistic Regression| |  | A |
+| average_duration<80% Day 4 | 0.863  | 0.855| 0 | 0 | 0 | Logistic Regression| |  | A |
 | average_duration<80% Day 5 | 0.858  |  | | | | Logistic Regression| |  | A |
 | average_duration<80% Day 6 | 0.858  |  | | | | Logistic Regression| |  | A |
 | average_duration<80% Day 7 | 0.858  |  | | | | Logistic Regression| |  | A |
