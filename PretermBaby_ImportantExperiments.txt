@@ -1,0 +1,8 @@
+-> ROP(3) - GA, BW, Sex
+->ROP(7) - 
+ 
+-> IH(14) tables for all variables 
+
+-> Best IH combination tables
+
+-> Best ROP(3 variables) + Best IH(3 variables) 
